@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://shyamkumar-dsa-instructor.vercel.app/sitemap.xml
+Host: https://shyamkumar-dsa-instructor.vercel.app

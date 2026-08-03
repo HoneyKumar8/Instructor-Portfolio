@@ -1,0 +1,59 @@
+[
+  {
+    "id": "event-management-system",
+    "title": "Event Management System",
+    "subtitle": "Full-Stack MERN Event Discovery & Registration Platform",
+    "problemStatement": "Event organizers often struggle with disjointed tools for ticketing, seat tracking, and registrant authentication, causing unnecessary friction and database confusion during live events.",
+    "solution": "Engineered a scalable full-stack web application featuring secure JWT authentication, dynamic categorization, real-time ticket availability checking, and instant registrant verification.",
+    "architecture": "RESTful Express/Node.js API communicating with a schema-driven MongoDB Atlas database. Frontend crafted with React and Tailwind CSS for seamless admin dashboards and student registrations.",
+    "techStack": ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "JWT Auth"],
+    "role": "Full-Stack Developer (Sole Architect & Developer)",
+    "githubUrl": "https://github.com/HoneyKumar8",
+    "liveUrl": "https://github.com/HoneyKumar8",
+    "keyLearnings": [
+      "Mastered robust state management and token-based authentication workflows.",
+      "Optimized MongoDB indexing for rapid query execution during peak event registration spikes.",
+      "Structured reusable frontend components to maintain strict UI consistency."
+    ],
+    "category": "Full-Stack MERN",
+    "featured": true
+  },
+  {
+    "id": "ai-marketing-planner",
+    "title": "AI Marketing Campaign Planner",
+    "subtitle": "Intelligent Platform for Automated Strategy & Content Architecture",
+    "problemStatement": "Generating comprehensive marketing roadmaps, audience demographic insights, and multi-channel ad copy traditionally requires countless hours of repetitive manual research and brainstorming.",
+    "solution": "Built an AI-powered campaign generating suite utilizing Google's Gemini AI models to instantly output tailored buyer personas, budget allocations, and scheduled multi-channel content timetables.",
+    "architecture": "Vite + React + TypeScript single-page app integrated with an Express proxy server orchestrating structured calls to the Gemini API with strict schema enforcement and error boundaries.",
+    "techStack": ["React", "TypeScript", "Node.js", "Express", "Gemini 2.5 Flash", "MongoDB", "Tailwind CSS"],
+    "role": "Full-Stack AI Engineer",
+    "githubUrl": "https://github.com/HoneyKumar8",
+    "liveUrl": "https://shyam-kumar-portfolio.vercel.app/",
+    "keyLearnings": [
+      "Designed reliable prompt engineering templates for predictable JSON generation via LLMs.",
+      "Integrated secure server-side AI key management and streaming feedback indicators.",
+      "Implemented responsive data visualization cards for marketing analytics."
+    ],
+    "category": "AI / ML",
+    "featured": true
+  },
+  {
+    "id": "personal-ai-portfolio",
+    "title": "Personal Instructor & AI Portfolio",
+    "subtitle": "Interactive Classroom-Style Web Platform with Embedded AI DSA Mentor",
+    "problemStatement": "Traditional static resumes and recruiter portfolios fail to convey an instructor's genuine teaching philosophy, mentoring warmth, and practical algorithmic problem-solving ability to learners.",
+    "solution": "Architected a student-first interactive web portfolio engineered for speed and accessibility, featuring an integrated AI DSA Mentor trained specifically to guide beginners through C++ concepts.",
+    "architecture": "Modern SPA powered by React 19, TypeScript, and Vite. Implements WCAG AA accessible color palettes, Framer Motion micro-animations, and serverless conversational endpoints.",
+    "techStack": ["React 19", "TypeScript", "Vite", "Tailwind CSS", "Framer Motion", "Gemini AI", "Zod"],
+    "role": "Lead Developer & UI Architect",
+    "githubUrl": "https://github.com/HoneyKumar8/Instructor-Portfolio.git",
+    "liveUrl": "https://shyam-kumar-portfolio.vercel.app/",
+    "keyLearnings": [
+      "Established an immaculate design system optimized specifically for readability and learner motivation.",
+      "Engineered conversational AI fallback boundaries to guarantee zero downtime during classroom demos.",
+      "Achieved stellar performance and SEO audits via code-splitting and semantic structure."
+    ],
+    "category": "Educational Tools",
+    "featured": true
+  }
+]

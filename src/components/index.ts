@@ -1,0 +1,10 @@
+export { HeroSection } from './hero/HeroSection';
+export { AboutSection } from './about/AboutSection';
+export { TeachingAreasSection, LearningRoadmapSection } from './teaching';
+export { ProjectsSection } from './projects/ProjectsSection';
+export { ExperienceSection } from './experience/ExperienceSection';
+export { CertificationsSection } from './certifications/CertificationsSection';
+export { ResourcesSection } from './resources/ResourcesSection';
+export { FAQSection } from './faq/FAQSection';
+export { ContactSection } from './contact/ContactSection';
+export { AIMentorChat } from './ai';

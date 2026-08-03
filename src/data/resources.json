@@ -1,0 +1,60 @@
+[
+  {
+    "id": "res-dsa-cheatsheet",
+    "title": "Complete C++ & STL Cheat Sheet",
+    "category": "C++ Notes",
+    "difficulty": "Beginner",
+    "duration": "Quick Reference",
+    "status": "available",
+    "url": "https://github.com/HoneyKumar8",
+    "iconName": "FileCode"
+  },
+  {
+    "id": "res-big-o",
+    "title": "Big-O Time & Space Complexity Guide",
+    "category": "DSA Cheatsheets",
+    "difficulty": "All Levels",
+    "duration": "10 Min Read",
+    "status": "available",
+    "url": "https://github.com/HoneyKumar8",
+    "iconName": "Clock"
+  },
+  {
+    "id": "res-interview-roadmap",
+    "title": "30-Day Interview Pattern Preparation Roadmap",
+    "category": "Roadmaps",
+    "difficulty": "Advanced",
+    "duration": "4-Week Plan",
+    "status": "available",
+    "url": "https://github.com/HoneyKumar8",
+    "iconName": "Map"
+  },
+  {
+    "id": "res-problem-strategy",
+    "title": "Step-by-Step Problem Solving & Dry-Run Protocol",
+    "category": "Strategy",
+    "difficulty": "Beginner",
+    "duration": "15 Min Study",
+    "status": "available",
+    "url": "https://github.com/HoneyKumar8",
+    "iconName": "CheckCircle2"
+  },
+  {
+    "id": "res-stl-notes",
+    "title": "Deep Dive into Vectors, Maps & Monotonic Stacks",
+    "category": "C++ Notes",
+    "difficulty": "All Levels",
+    "duration": "20 Min Study",
+    "status": "coming-soon",
+    "iconName": "Database"
+  },
+  {
+    "id": "res-daily-schedule",
+    "title": "Daily DSA Practice & Problem Selection Matrix",
+    "category": "Practice",
+    "difficulty": "All Levels",
+    "duration": "Daily Habit",
+    "status": "coming-soon",
+    "iconName": "Calendar"
+  }
+]

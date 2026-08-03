@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cert-1",
+    "title": "Full Stack MERN Development Specialization",
+    "issuer": "NxtWave CCBP 4.0 Academy",
+    "date": "2024",
+    "badge": "Specialization",
+    "credentialUrl": "https://www.ccbp.in/",
+    "skills": ["MongoDB", "Express.js", "React.js", "Node.js", "Full Stack Architecture"],
+    "priority": true
+  },
+  {
+    "id": "cert-2",
+    "title": "Google AI Agents & LLM Applications",
+    "issuer": "Google Cloud Training",
+    "date": "2024",
+    "badge": "Professional Certificate",
+    "credentialUrl": "https://cloud.google.com/",
+    "skills": ["Gemini API", "AI Agents", "Prompt Engineering", "LLM Integration"],
+    "priority": true
+  },
+  {
+    "id": "cert-3",
+    "title": "Oracle Certified APEX & Database Specialist",
+    "issuer": "Oracle Academy",
+    "date": "2023",
+    "badge": "Professional Certificate",
+    "credentialUrl": "https://education.oracle.com/",
+    "skills": ["Oracle APEX", "SQL Modeling", "Database Design", "Performance Tuning"],
+    "priority": true
+  },
+  {
+    "id": "cert-4",
+    "title": "Python for Data Science & Programming Foundations",
+    "issuer": "IBM & Coursera",
+    "date": "2023",
+    "badge": "Course Certificate",
+    "skills": ["Python Syntax", "Data Structures", "Algorithmic Foundations", "Jupyter"],
+    "priority": false
+  },
+  {
+    "id": "cert-5",
+    "title": "100DaysOfCode Challenge Completer & Mentor",
+    "issuer": "Developer Community Recognition",
+    "date": "2024",
+    "badge": "Achievement",
+    "skills": ["Daily Deliberate Practice", "C++ Mastery", "Problem Solving Consistency", "Mentorship"],
+    "priority": false
+  }
+]

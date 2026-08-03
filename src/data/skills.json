@@ -1,0 +1,112 @@
+{
+  "topics": [
+    {
+      "id": "t-cpp",
+      "name": "C++ Fundamentals & STL",
+      "category": "Primary",
+      "proficiency": 95,
+      "description": "Mastering pointer mechanics, memory allocation, vectors, sets, maps, and Standard Template Library power utilities for optimal coding.",
+      "iconName": "Code"
+    },
+    {
+      "id": "t-dsa",
+      "name": "Data Structures & Algorithms",
+      "category": "Primary",
+      "proficiency": 95,
+      "description": "Comprehensive analysis and building of core structures from scratch to understand algorithmic efficiency and runtime trade-offs.",
+      "iconName": "Database"
+    },
+    {
+      "id": "t-arrays-strings",
+      "name": "Arrays & Strings",
+      "category": "Primary",
+      "proficiency": 92,
+      "description": "Two-pointer techniques, sliding windows, string matching algorithms, and matrix traversals commonly tested in technical interviews.",
+      "iconName": "Layers"
+    },
+    {
+      "id": "t-linked-lists",
+      "name": "Linked Lists & Pointers",
+      "category": "Primary",
+      "proficiency": 90,
+      "description": "Singly, doubly, and circular linked lists, reversing techniques, slow/fast pointer algorithms (Floyd's cycle detection), and memory management.",
+      "iconName": "GitCommit"
+    },
+    {
+      "id": "t-stacks-queues",
+      "name": "Stacks & Queues",
+      "category": "Primary",
+      "proficiency": 90,
+      "description": "Monotonic stacks, queue evaluation, expression evaluation (Infix/Postfix), and real-world system queue simulations.",
+      "iconName": "Layers3"
+    },
+    {
+      "id": "t-trees-bst",
+      "name": "Trees & Binary Search Trees",
+      "category": "Primary",
+      "proficiency": 88,
+      "description": "Recursive & iterative tree traversals (Inorder, Preorder, Postorder, Level-order), BST validation, and height balancing.",
+      "iconName": "Network"
+    },
+    {
+      "id": "t-graphs",
+      "name": "Graph Theory & Algorithms",
+      "category": "Primary",
+      "proficiency": 85,
+      "description": "Breadth-First Search (BFS), Depth-First Search (DFS), shortest path algorithms (Dijkstra's), cycle detection, and topological sorting.",
+      "iconName": "Share2"
+    },
+    {
+      "id": "t-dp-recursion",
+      "name": "Recursion, DP & Backtracking",
+      "category": "Primary",
+      "proficiency": 88,
+      "description": "Breaking complex problems into overlapping subproblems, memoization, tabular dynamic programming, and systematic state exploration.",
+      "iconName": "Brain"
+    },
+    {
+      "id": "t-complexity",
+      "name": "Time & Space Complexity",
+      "category": "Secondary",
+      "proficiency": 95,
+      "description": "Rigorous Big-O, Big-Omega, and Big-Theta notation analysis to evaluate algorithm scalability before writing a single line of code.",
+      "iconName": "Clock"
+    },
+    {
+      "id": "t-interview-prep",
+      "name": "Interview Pattern Recognition",
+      "category": "Secondary",
+      "proficiency": 92,
+      "description": "Training students to rapidly identify standard coding patterns under pressure rather than memorizing individual answers.",
+      "iconName": "Award"
+    },
+    {
+      "id": "t-debugging",
+      "name": "Debugging & Clean Code",
+      "category": "Secondary",
+      "proficiency": 90,
+      "description": "Systematic stepping, variable inspection, memory leak checks, and writing self-documenting code following engineering standards.",
+      "iconName": "Wrench"
+    }
+  ],
+  "technicalStack": [
+    { "name": "C++", "level": 95 },
+    { "name": "Data Structures & Algorithms", "level": 95 },
+    { "name": "JavaScript (ES6+)", "level": 90 },
+    { "name": "Python", "level": 85 },
+    { "name": "React & Vite", "level": 92 },
+    { "name": "Node.js & Express", "level": 88 },
+    { "name": "MongoDB & SQL", "level": 88 },
+    { "name": "Gemini AI API", "level": 90 },
+    { "name": "Git & GitHub", "level": 90 }
+  ],
+  "teachingSkills": [
+    "Problem Solving Mentorship",
+    "Concept Simplification",
+    "Live Debugging Support",
+    "Whiteboard Explanations",
+    "Structured Code Reviews",
+    "One-on-One Doubt Resolution",
+    "Student Encouragement & Mindset"
+  ]
+}

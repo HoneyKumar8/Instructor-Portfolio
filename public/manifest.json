@@ -1,0 +1,16 @@
+{
+  "short_name": "Shyam DSA",
+  "name": "Surakattula Shyam Kumar - DSA Instructor (C++) & Faculty Trainee",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4F46E5",
+  "background_color": "#0B1120",
+  "description": "Learn Data Structures & Algorithms in C++ the practical way with Surakattula Shyam Kumar at NxtWave CCBP 4.0."
+}

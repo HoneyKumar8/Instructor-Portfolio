@@ -1,0 +1,57 @@
+[
+  {
+    "id": "exp-nxtwave",
+    "role": "Software Development Faculty Trainee (SDFT)",
+    "company": "NxtWave CCBP 4.0",
+    "period": "Current Role",
+    "location": "Hyderabad, India",
+    "type": "Current Faculty Role",
+    "responsibilities": [
+      "Mentoring aspiring developers and students across India to master C++ and Data Structures & Algorithms.",
+      "Simplifying complex algorithmic paradigms (Recursion, Dynamic Programming, Graph Theory) into intuitive, real-world analogies.",
+      "Conducting interactive problem-solving and debugging workshops focused on logical breakdown before coding.",
+      "Performing structured code reviews, providing constructive architectural feedback, and resolving daily student doubts with patience and encouragement."
+    ],
+    "skills": ["C++", "DSA", "Algorithm Design", "Mentoring", "Whiteboard Teaching", "Code Review", "Doubt Resolution"]
+  },
+  {
+    "id": "exp-student-tribe",
+    "role": "AI Annotation Specialist (Intern)",
+    "company": "Student Tribe (at Tao Digitals)",
+    "period": "Mar 2026 - May 2026",
+    "location": "Hyderabad, India",
+    "type": "Internship",
+    "responsibilities": [
+      "Conducted precise dataset curation, labeling, and quality verification across multimodal data streams (text, image, audio) to train machine learning models.",
+      "Collaborated with engineering teams to identify logical inconsistencies and optimize AI evaluation guidelines.",
+      "Leveraged rigorous analytical thinking to ensure high data integrity for next-generation automated systems."
+    ],
+    "skills": ["AI Data Annotation", "Machine Learning Quality Assurance", "Analytical Verification", "Team Collaboration"]
+  },
+  {
+    "id": "exp-wns",
+    "role": "Senior Associate - Operations",
+    "company": "WNS Global Services Pvt. Ltd",
+    "period": "Mar 2024 - Sep 2025",
+    "location": "India",
+    "type": "Industry Experience",
+    "responsibilities": [
+      "Spearheaded complex operational workflows and consistently upheld exceptional service quality delivery standards.",
+      "Honed strong situational problem-solving skills, stakeholder clear communication, and empathetic mentorship of onboarding junior team members."
+    ],
+    "skills": ["Operations Strategy", "Process Optimization", "Effective Communication", "Cross-functional Collaboration"]
+  },
+  {
+    "id": "exp-best-western",
+    "role": "Operations & Client Relations Associate",
+    "company": "Best Western & Vision India",
+    "period": "2019 - 2021",
+    "location": "Visakhapatnam, India",
+    "type": "Industry Experience",
+    "responsibilities": [
+      "Managed front-line customer service experiences, rapid real-time doubt resolution, and daily workflow coordination.",
+      "Cultivated professional patience, active listening skills, and a calm, approachable manner under busy operational schedules—core traits brought directly into the teaching classroom."
+    ],
+    "skills": ["Active Listening", "Client Empathy", "Real-time Problem Solving", "Professional Patience"]
+  }
+]

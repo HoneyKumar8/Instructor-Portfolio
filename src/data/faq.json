@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq-prior-knowledge",
+    "question": "Do I need prior programming knowledge to learn DSA with you?",
+    "answer": "Not at all! We start right from programming fundamentals and simple computer logic before gradually stepping up to C++ syntax and core algorithms. As long as you have curiosity and a willingness to practice consistently, anyone can master Data Structures & Algorithms.",
+    "category": "Beginner guidance"
+  },
+  {
+    "id": "faq-why-cpp",
+    "question": "Why do you recommend C++ for learning Data Structures & Algorithms?",
+    "answer": "C++ gives you exceptional transparency into how computer memory works, such as pointers and direct memory management, which is vital for understanding why one data structure performs better than another. Additionally, its Standard Template Library (STL) is incredibly rich, making it the industry standard for coding interviews and competitive programming.",
+    "category": "Technical choices"
+  },
+  {
+    "id": "faq-how-much-practice",
+    "question": "How much daily practice is required to see noticeable progress?",
+    "answer": "Consistency trumps intensity. Dedicating just 60 to 90 minutes of focused practice each day—solving 2 to 3 well-chosen problems and thoroughly dry-running your solutions on paper—is far more effective than an all-night marathon once a week.",
+    "category": "Study strategy"
+  },
+  {
+    "id": "faq-timeline",
+    "question": "How long does it typically take to become interview-ready in DSA?",
+    "answer": "With structured guided learning and regular practice, most beginners build strong algorithmic confidence and become interview-ready within 3 to 4 months. The journey is divided into mastering core data structures first, followed by pattern recognition and simulated timed coding.",
+    "category": "Career timeline"
+  },
+  {
+    "id": "faq-platforms",
+    "question": "Which online practice coding platforms do you recommend for daily practice?",
+    "answer": "I recommend starting with structured platforms like LeetCode and GeeksforGeeks to practice targeted algorithmic patterns, alongside HackerRank for beginner language syntax drills. During our sessions, we focus on problem quality and deep comprehension rather than just chasing high problem counts.",
+    "category": "Platform recommendations"
+  },
+  {
+    "id": "faq-improve-logic",
+    "question": "How do I improve my logical thinking when faced with an unseen problem?",
+    "answer": "Never code immediately! Start by drawing out concrete examples on paper, tracing edge cases, and phrasing your brute-force logic entirely in normal human words. Once you understand the transformation steps clearly, selecting the right data structure and writing the optimal code becomes intuitive.",
+    "category": "Problem-solving technique"
+  },
+  {
+    "id": "faq-interview-prep",
+    "question": "How should I structure my final preparation right before technical interviews?",
+    "answer": "Focus on reviewing common problem-solving patterns (like sliding window, two-pointers, fast-slow pointers, and graph traversals) instead of trying to cram hundreds of new questions. Practice thinking out loud while writing code, as communicating your thought process clearly is just as important as arriving at the optimal Big-O complexity.",
+    "category": "Interview tips"
+  }
+]

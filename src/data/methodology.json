@@ -1,0 +1,110 @@
+{
+  "methodologySteps": [
+    {
+      "stepNumber": 1,
+      "title": "Understand Concept",
+      "description": "Deconstruct the real-world utility and intuition behind the algorithmic idea before examining syntax.",
+      "iconName": "BookOpen"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Visualize on Paper",
+      "description": "Draw out node transitions, pointer manipulations, and array mutations using visual diagrams.",
+      "iconName": "Eye"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Write Clean Code",
+      "description": "Translate the visual intuition into clear, modular C++ code utilizing appropriate STL data containers.",
+      "iconName": "Code"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Dry Run on Example",
+      "description": "Manually trace variable state changes step-by-step to verify correctness and uncover hidden logic oversights.",
+      "iconName": "Search"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Optimize Complexity",
+      "description": "Analyze Big-O runtime and memory footprints to transform brute-force solutions into highly efficient algorithms.",
+      "iconName": "Zap"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Practice Problems",
+      "description": "Reinforce conceptual grasp by tackling a curated set of variations across increasing difficulty tiers.",
+      "iconName": "CheckCircle2"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Interview Questions",
+      "description": "Test your reflexes under time limits against authentic interview problem formulations from top technology companies.",
+      "iconName": "Award"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Periodic Revision",
+      "description": "Utilize spaced repetition to solidify pattern recognition and long-term algorithmic recall without memorization.",
+      "iconName": "RefreshCw"
+    }
+  ],
+  "roadmapSteps": [
+    {
+      "id": "rm-1",
+      "title": "Programming Basics & Logic",
+      "description": "Variables, conditional control flow, loops, functions, and fundamental algorithmic logic.",
+      "difficulty": "Beginner",
+      "keyConcepts": ["Logic Building", "Control Flow", "Modular Functions", "Debugging Basics"]
+    },
+    {
+      "id": "rm-2",
+      "title": "C++ Syntax & Pointers",
+      "description": "Memory addresses, dynamic allocation, references, and deep comprehension of pointer arithmetic.",
+      "difficulty": "Beginner",
+      "keyConcepts": ["Pointer Mechanics", "Memory Allocation", "Pass-by-Reference", "Structs & Classes"]
+    },
+    {
+      "id": "rm-3",
+      "title": "Arrays, Strings & Two-Pointers",
+      "description": "Linear traversal optimization, sliding window techniques, and multi-directional pointer strategies.",
+      "difficulty": "Intermediate",
+      "keyConcepts": ["Sliding Window", "Two Pointers", "Prefix Sums", "String Matching"]
+    },
+    {
+      "id": "rm-4",
+      "title": "Linked Lists & Linear Structures",
+      "description": "Singly and doubly linked lists, reversal techniques, Floyd's slow/fast cycle finding, and memory management.",
+      "difficulty": "Intermediate",
+      "keyConcepts": ["In-place Reversal", "Cycle Detection", "Merge Sort on Lists", "Pointer Trimming"]
+    },
+    {
+      "id": "rm-5",
+      "title": "Stacks, Queues & Hash Maps",
+      "description": "Monotonic stack evaluation, breadth-first simulation, and instant constant-time lookups via hash mapping.",
+      "difficulty": "Intermediate",
+      "keyConcepts": ["Monotonic Stacks", "Priority Queues", "Collision Resolution", "Frequency Maps"]
+    },
+    {
+      "id": "rm-6",
+      "title": "Trees, BST & Heaps",
+      "description": "Recursive branching structures, binary search tree invariants, heap property balance, and level traversals.",
+      "difficulty": "Advanced",
+      "keyConcepts": ["Tree Traversals", "BST Operations", "Min/Max Heaps", "Lowest Common Ancestor"]
+    },
+    {
+      "id": "rm-7",
+      "title": "Graph Theory & Algorithms",
+      "description": "Adjacency representation, BFS, DFS, Dijkstra's shortest path, cycle detection, and topological sorting.",
+      "difficulty": "Advanced",
+      "keyConcepts": ["Graph Traversals", "Dijkstra's Algorithm", "Topological Sort", "Connected Components"]
+    },
+    {
+      "id": "rm-8",
+      "title": "Recursion, DP & Interview Preparation",
+      "description": "Subproblem decomposition, tabular Dynamic Programming, state exploration, and mock technical interviews.",
+      "difficulty": "Interview",
+      "keyConcepts": ["Memoization", "Tabular DP", "Backtracking State", "Mock Interview Simulation"]
+    }
+  ]
+}
